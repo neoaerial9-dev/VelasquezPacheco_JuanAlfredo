@@ -1,3 +1,7 @@
+// Autor: Juan Alfredo Velasquez Pacheco
+// Código: U23203354
+// Fecha de creación: 6/9/2026
+
 object LimpiarEtiquetas {
     def limpiarEtiquetas(hash: Set[String]): Unit = {
         /*

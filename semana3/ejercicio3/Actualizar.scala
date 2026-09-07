@@ -1,3 +1,7 @@
+// Autor: Juan Alfredo Velasquez Pacheco
+// Código: U23203354
+// Fecha de creación: 6/9/2026
+
 object Actualizar {
     def actualizarProductos(products: Map[String, Double]): Unit = {
         // Filtrar productos mayores a 50

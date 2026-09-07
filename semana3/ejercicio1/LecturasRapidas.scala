@@ -1,3 +1,7 @@
+// Autor: Juan Alfredo Velasquez Pacheco
+// Código: U23203354
+// Fecha de creación: 6/9/2026
+
 object LecturasRapidas {
     case class Libro(titulo: String, autor: String, paginas: Int)
 
